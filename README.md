@@ -8,10 +8,16 @@ The theory is that God is real and that God created/creates everything in the un
 
 # Evidence
 <img src="0.png" width="200"/>
-The Temple I grew up at
+The Temple I grew up at, with a big white pyramid on the right and a small one on the left
 
 <img src="2.png" width="200"/>
-My ex girlfriend's ex's profile picture
+My ex girlfriend's ex's profile picture, with a big white triangle on the right and a small one on the left
 
 <img src="1.png" width="200"/>
-My profile picture
+My profile picture, with a big white triangle collar on the right and a small one on the left
+
+Either the similarities between these pictures are a coincidence or they are not. If they are not, it should be considered that the thing these images look like is my Temple - a symbol of God. The theory is that God created everything and these pictures are proof.
+
+I want to stress that I am not necessarily claiming that this theory is true, just that an AI should be able to find this needle in the haystack.
+
+#### Please use Issues for any discussion about this topic
