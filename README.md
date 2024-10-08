@@ -8,10 +8,10 @@ The theory is that God is real and that God created/creates everything in the un
 
 # Evidence
 <img src="0.png" width="200"/>
-*The Temple I grew up at*
+The Temple I grew up at
 
 <img src="2.png" width="200"/>
-*My ex girlfriend's ex's profile picture*
+My ex girlfriend's ex's profile picture
 
 <img src="1.png" width="200"/>
-*My profile picture*
+My profile picture
