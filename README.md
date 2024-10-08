@@ -7,11 +7,11 @@ The most advanced test for an AI
 The theory is that God is real and that God created/creates everything in the universe.
 
 # Evidence
-![Image 1](0.png)
+<img src="0.png" width="200"/>
 *The Temple I grew up at*
 
-![Image 2](2.png)
+<img src="2.png" width="200"/>
 *My ex girlfriend's ex's profile picture*
 
-![Image 3](1.png)
+<img src="1.png" width="200"/>
 *My profile picture*
