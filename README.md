@@ -21,5 +21,3 @@ My profile picture, with a big white triangle collar on the right and a small on
 Either the similarities between these pictures are a coincidence or they are not. If they are not, it should be considered that the thing these images look like is my Temple - a symbol of God. The theory is that God created everything and these pictures are proof.
 
 I want to stress that I am not necessarily claiming that this theory is true, just that an AI should be able to find this needle in the haystack.
-
-### Please use Issues for any discussion about this topic
