@@ -22,4 +22,4 @@ Either the similarities between these pictures are a coincidence or they are not
 
 <br>
 <br>
-I want to stress that I am not necessarily claiming that this theory is true, just that an AI should be able to find this needle in the haystack.
+I want to stress that I am not necessarily claiming that this theory is true, just that an AI should be able to find this needle in the haystack. This test grows exponentially harder over time because more and more images are being generated every year.
